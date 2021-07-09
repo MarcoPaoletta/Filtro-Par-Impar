@@ -1,6 +1,15 @@
-# Como ejecutar proyectos de Python en cualquier equipo
-* Ademas de las cosas que se mencioan a continuacion, hay que tener en cuenta las librerias que seguramente el proyecto contenga
-* La explicacion de como descargar las mismas esta en su correspondiente repositorio
+# FiltroPar-Impar
+* Programa para identificar si un numero indicado por el usuario es par o impar
+
+    <img src=https://github.com/MarcoPaoletta/QRCodeGenerator/blob/main/Demostracion.mp4>
+
+---
+# Funcionamiento
+* Al ejecutar el script, tendremos que ingresar un numero cualquiera
+* El programa devolvera si es par o impar
+* Incluimos un bucle **while** por si el usuario trata de ingresar datos no validos, como puede ser el caso de cadenas de texto o numeros con coma, y asi pedirle nuevamente el dato 
+
+    <img src=https://github.com/MarcoPaoletta/QRCodeGenerator/blob/main/Demostracion.mp4>
   
 ---
 
