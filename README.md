@@ -1,7 +1,7 @@
 # FiltroPar-Impar
 * Programa para identificar si un numero indicado por el usuario es par o impar
 
-    <img src=https://github.com/MarcoPaoletta/FiltroPar-Impar/blob/main/Demostracion1.mp4>
+    <img height=265 width=471 src=https://github.com/MarcoPaoletta/FiltroPar-Impar/blob/main/Demostracion1.gif>
 
 ---
 # Funcionamiento
@@ -9,7 +9,7 @@
 * El programa devolvera si es par o impar
 * Incluimos un bucle **while** por si el usuario trata de ingresar datos no validos, como puede ser el caso de cadenas de texto o numeros con coma, y asi pedirle nuevamente el dato 
 
-    <img src=https://github.com/MarcoPaoletta/FiltroPar-Impar/blob/main/Demostracion2.mp4>
+    <img height=265 width=471 src=https://github.com/MarcoPaoletta/FiltroPar-Impar/blob/main/Demostracion2.gif>
   
 ---
 
